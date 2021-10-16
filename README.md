@@ -1,7 +1,5 @@
 # vue-record-firebase 
 
-Check now demo without upload functionality.
-
 Record from your mic and send it to firebase storage.
 
 `Remember to put firebase auth information into .env file`
